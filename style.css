@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #EEF7FC;
+}
+
 header,
 section h2,
 section h3,
